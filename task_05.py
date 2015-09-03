@@ -1,4 +1,4 @@
-￼#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """A simple Python file."""
 
