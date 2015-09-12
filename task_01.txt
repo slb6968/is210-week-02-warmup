@@ -1,0 +1,5 @@
+Every python file must have this content:
+    
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""This file is for."""
